@@ -1,3 +1,3 @@
 # designissue
 
-Some codes ans tutorials for design issue class.
+Some codes and tutorials for design issue class.
